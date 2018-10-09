@@ -17,9 +17,9 @@ public class MainActivity extends AppCompatActivity {
 
     int[] images = {R.drawable.cupcake, R.drawable.dougnut, R.drawable.eclair, R.drawable.froyo, R.drawable.gingerbread, R.drawable.honeycomb, R.drawable.icecream, R.drawable.jellybeans, R.drawable.kitkat, R.drawable.lollipop, R.drawable.mashmallow, R.drawable.nougat, R.drawable.oreo1};
 
-    String[] version = {"Android Cup cake", "Android Donut", "Android Eclair", "Android Froyo", "Android GingerBread", "Android Honeycomb", "Android ice cream ", "Android Jellybean", "Android Kitkat", "Android Lollipop", "Android Marshmallow", "Android nougat", "Android Oreo"};
+    String[] version = {"Android Cup cake", "Android Donut", "Android Eclair", "Android Froyo", "Android Ginger Bread", "Android Honey comb", "Android ice cream", "Android Jelly bean", "Android Kitkat", "Android Lolli pop", "Android Marsh mallow", "Android nougat", "Android Oreo"};
 
-    String[] versionNumber = {"1.5", "1.6", "2.0 2.1", "2.2","2.3", "3.0 3.1", "4.0", "4.1 4.2 4.3", "4.4", "5.0", "6.0", "7.0", "8.0"};
+    String[] versionNumber = {"1.5","1.6","2.0 2.1","2.2","2.3", "3.0 3.1", "4.0", "4.1 4.2 4.3", "4.4", "5.0", "6.0", "7.0", "8.0"};
 
     ListView lView;
 
