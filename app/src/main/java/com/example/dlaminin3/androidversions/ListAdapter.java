@@ -62,7 +62,6 @@ public class ListAdapter extends BaseAdapter
             viewHolder.txtName = (TextView) convertView.findViewById(R.id.aNametxt);
             viewHolder.txtVersion = (TextView) convertView.findViewById(R.id.aVersiontxt);
             viewHolder.icon = (ImageView) convertView.findViewById(R.id.appIconIV);
-
             result=convertView;
 
             convertView.setTag(viewHolder);
